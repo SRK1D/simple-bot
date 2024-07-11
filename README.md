@@ -33,7 +33,7 @@ python main.py
 
 #### How do I make it work?
 
-Put the bot's token inside ``.env`` at the line ``TOKEN=<token here>`` and then run the program
+Create a file named ".env" without any extension. Put the bot's token inside ``.env`` at the line ``TOKEN=<token here>`` and then run the program
 
 #### Why did you make this
 
