@@ -1,0 +1,15 @@
+{
+    "WYD": true,
+
+    "DEVICE": {
+        "IP": "192.168.0.1",
+        "PORT": "6969",
+        "PATH": "/simple_path",
+        "IF_NOT_ALIVE": "No signal ;("
+    },
+
+    "FILES": {
+        "IO_FILE_NAME": "screen1.png",
+        "IO_FILE_NAME_MOBILE": "screen2.png"
+    }
+}
